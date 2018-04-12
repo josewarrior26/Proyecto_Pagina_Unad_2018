@@ -51,11 +51,13 @@ a:hover {
 
 /* Header */
 
+
+}
 #header {
 	width: 940px;
 	height: 158px;
-	margin: 0 auto;
-	background: url(img/img06.png) no-repeat left 10px;
+	margin: 0 aut0;
+	background: url(img/img07.jpg) no-repeat left 10px;
 }
 
 /* Logo */
@@ -269,8 +271,6 @@ a:hover {
 	padding-top: 20px;
 	font-size: 12px;
 	font-weight: bold;
-}
-
 }
 
 #footer{
